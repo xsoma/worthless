@@ -3,7 +3,7 @@
 ## worthless aka clockwise almost fixed (80% english text) 
 > internal movement cheat for cs:go
 
-## "cheat fixers" community servers
+## "soma projects" community servers
 
 - if you want other good sources, or just having a good community, [click here!](https://discord.gg/WPag8RJ)
 
