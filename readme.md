@@ -5,7 +5,7 @@
 
 ## "cheat fixers" community servers
 
-- join if you want to have other good sources, or just joining a good community, [click here!](https://discord.gg/WPag8RJ)
+- if you want other good sources, or just having a good community, [click here!](https://discord.gg/WPag8RJ)
 
 ## how to's
 
