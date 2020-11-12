@@ -1,6 +1,6 @@
 
 
-## worthless aka clockwise fix
+## worthless aka clockwise almost fixed (80% english text) 
 > internal movement cheat for cs:go
 
 ## "cheat fixers" community servers
