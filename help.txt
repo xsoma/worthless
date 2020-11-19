@@ -6,9 +6,12 @@ how to compile this project without errors.
 
 i prefer having visual studio community, but
 you can download other versions of it. after
-downloading, in the installer download this ones.
+downloading, in the installer download:
+net desktop development and desktop development with c++
+
+
 (installer: https://visualstudio.microsoft.com/downloads/)
-(ss: )
+
 
 -------------------------------------------
 
